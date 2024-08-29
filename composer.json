@@ -1,0 +1,11 @@
+{
+    "name": "maximaster/bitrix-sql-profile",
+    "description": "Упрощает замер производительности отдельных хитов.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Maximaster\\BitrixSqlProfile\\": "src/"
+        }
+    },
+    "authors": [{"name": "Лавриненко Максим", "email": "maxim.lavrinenko@maximaster.ru"}]
+}
